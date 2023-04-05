@@ -1,0 +1,67 @@
+06:18:12,315 root INFO Running GPr-Net
+06:18:20,285 Poincare GPr-Net DEBUG Train results -- Loss: 2.0273 Acc: 0.6425
+06:18:22,196 Poincare GPr-Net DEBUG Train results -- Loss: 1.6160 Acc: 0.6775
+06:18:24,92 Poincare GPr-Net DEBUG Train results -- Loss: 0.9273 Acc: 0.7300
+06:18:26,2 Poincare GPr-Net DEBUG Train results -- Loss: 0.9685 Acc: 0.7162
+06:18:27,917 Poincare GPr-Net DEBUG Train results -- Loss: 0.9243 Acc: 0.7344
+06:18:29,827 Poincare GPr-Net DEBUG Train results -- Loss: 0.9793 Acc: 0.7081
+06:18:31,741 Poincare GPr-Net DEBUG Train results -- Loss: 0.7691 Acc: 0.7519
+06:18:33,661 Poincare GPr-Net DEBUG Train results -- Loss: 0.8795 Acc: 0.7094
+06:18:35,585 Poincare GPr-Net DEBUG Train results -- Loss: 0.9296 Acc: 0.7237
+06:18:37,507 Poincare GPr-Net DEBUG Train results -- Loss: 0.7256 Acc: 0.7631
+06:20:59,245 Poincare GPr-Net DEBUG 
+ Best Val results -- Loss: 0.8770 Acc: 0.7307
+06:20:59,246 Poincare GPr-Net DEBUG Val results -- Loss: 0.8770 Acc: 0.7307
+06:21:01,153 Poincare GPr-Net DEBUG Train results -- Loss: 0.6941 Acc: 0.7612
+06:21:03,70 Poincare GPr-Net DEBUG Train results -- Loss: 0.7861 Acc: 0.7144
+06:21:04,978 Poincare GPr-Net DEBUG Train results -- Loss: 0.8120 Acc: 0.7156
+06:21:06,910 Poincare GPr-Net DEBUG Train results -- Loss: 0.6959 Acc: 0.7550
+06:21:08,829 Poincare GPr-Net DEBUG Train results -- Loss: 0.6880 Acc: 0.7600
+06:21:10,738 Poincare GPr-Net DEBUG Train results -- Loss: 0.7082 Acc: 0.7506
+06:21:12,647 Poincare GPr-Net DEBUG Train results -- Loss: 0.7566 Acc: 0.7337
+06:21:14,557 Poincare GPr-Net DEBUG Train results -- Loss: 0.7702 Acc: 0.7356
+06:21:16,483 Poincare GPr-Net DEBUG Train results -- Loss: 0.8036 Acc: 0.7262
+06:21:18,403 Poincare GPr-Net DEBUG Train results -- Loss: 0.6913 Acc: 0.7637
+06:23:39,416 Poincare GPr-Net DEBUG 
+ Best Val results -- Loss: 0.8550 Acc: 0.7378
+06:23:39,417 Poincare GPr-Net DEBUG Val results -- Loss: 0.8550 Acc: 0.7378
+06:23:41,329 Poincare GPr-Net DEBUG Train results -- Loss: 0.6887 Acc: 0.7681
+06:23:43,248 Poincare GPr-Net DEBUG Train results -- Loss: 0.5572 Acc: 0.8075
+06:23:45,170 Poincare GPr-Net DEBUG Train results -- Loss: 0.6423 Acc: 0.7906
+06:23:47,98 Poincare GPr-Net DEBUG Train results -- Loss: 0.5859 Acc: 0.8019
+06:23:49,15 Poincare GPr-Net DEBUG Train results -- Loss: 0.6559 Acc: 0.7756
+06:23:50,932 Poincare GPr-Net DEBUG Train results -- Loss: 0.5311 Acc: 0.8137
+06:23:52,847 Poincare GPr-Net DEBUG Train results -- Loss: 0.5788 Acc: 0.7950
+06:23:54,774 Poincare GPr-Net DEBUG Train results -- Loss: 0.7899 Acc: 0.7125
+06:23:56,687 Poincare GPr-Net DEBUG Train results -- Loss: 0.6671 Acc: 0.7681
+06:23:58,596 Poincare GPr-Net DEBUG Train results -- Loss: 0.6825 Acc: 0.7669
+06:26:19,591 Poincare GPr-Net DEBUG 
+ Best Val results -- Loss: 0.8582 Acc: 0.7394
+06:26:19,592 Poincare GPr-Net DEBUG Val results -- Loss: 0.8582 Acc: 0.7394
+06:26:21,497 Poincare GPr-Net DEBUG Train results -- Loss: 0.6009 Acc: 0.7969
+06:26:23,423 Poincare GPr-Net DEBUG Train results -- Loss: 0.6261 Acc: 0.7825
+06:26:25,344 Poincare GPr-Net DEBUG Train results -- Loss: 0.7097 Acc: 0.7550
+06:26:27,252 Poincare GPr-Net DEBUG Train results -- Loss: 0.7536 Acc: 0.7450
+06:26:29,171 Poincare GPr-Net DEBUG Train results -- Loss: 0.6781 Acc: 0.7700
+06:26:31,91 Poincare GPr-Net DEBUG Train results -- Loss: 0.7210 Acc: 0.7594
+06:26:33,3 Poincare GPr-Net DEBUG Train results -- Loss: 0.7420 Acc: 0.7494
+06:26:34,933 Poincare GPr-Net DEBUG Train results -- Loss: 0.7199 Acc: 0.7606
+06:26:36,854 Poincare GPr-Net DEBUG Train results -- Loss: 0.7329 Acc: 0.7644
+06:26:38,768 Poincare GPr-Net DEBUG Train results -- Loss: 0.6927 Acc: 0.7625
+06:28:59,896 Poincare GPr-Net DEBUG 
+ Best Val results -- Loss: 0.8309 Acc: 0.7456
+06:28:59,897 Poincare GPr-Net DEBUG Val results -- Loss: 0.8309 Acc: 0.7456
+06:29:01,815 Poincare GPr-Net DEBUG Train results -- Loss: 0.5596 Acc: 0.7987
+06:29:03,729 Poincare GPr-Net DEBUG Train results -- Loss: 0.6409 Acc: 0.7769
+06:29:05,651 Poincare GPr-Net DEBUG Train results -- Loss: 0.6941 Acc: 0.7631
+06:29:07,569 Poincare GPr-Net DEBUG Train results -- Loss: 0.5918 Acc: 0.7962
+06:29:09,484 Poincare GPr-Net DEBUG Train results -- Loss: 0.5648 Acc: 0.7987
+06:29:11,409 Poincare GPr-Net DEBUG Train results -- Loss: 0.7404 Acc: 0.7500
+06:29:13,327 Poincare GPr-Net DEBUG Train results -- Loss: 0.7229 Acc: 0.7600
+06:29:15,248 Poincare GPr-Net DEBUG Train results -- Loss: 0.6360 Acc: 0.7844
+06:29:17,169 Poincare GPr-Net DEBUG Train results -- Loss: 0.7669 Acc: 0.7444
+06:29:19,82 Poincare GPr-Net DEBUG Train results -- Loss: 0.5724 Acc: 0.8075
+06:31:32,16 Poincare GPr-Net DEBUG Val results -- Loss: 0.8382 Acc: 0.7430
+06:33:53,421 Poincare GPr-Net DEBUG 
+ 
+ Test Acc 0.7443 + 0.0043

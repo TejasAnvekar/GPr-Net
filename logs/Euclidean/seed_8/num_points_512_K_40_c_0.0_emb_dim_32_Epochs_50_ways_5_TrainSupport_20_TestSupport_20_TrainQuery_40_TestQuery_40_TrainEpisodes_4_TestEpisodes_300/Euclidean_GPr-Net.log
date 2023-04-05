@@ -1,0 +1,69 @@
+03:44:35,188 root INFO Running GPr-Net
+03:44:40,66 Euclidean GPr-Net DEBUG Train results -- Loss: 1.4887 Acc: 0.7687
+03:44:40,322 Euclidean GPr-Net DEBUG Train results -- Loss: 1.3796 Acc: 0.7987
+03:44:40,570 Euclidean GPr-Net DEBUG Train results -- Loss: 1.2083 Acc: 0.7425
+03:44:40,816 Euclidean GPr-Net DEBUG Train results -- Loss: 1.0903 Acc: 0.5962
+03:44:41,63 Euclidean GPr-Net DEBUG Train results -- Loss: 1.0232 Acc: 0.7087
+03:44:41,309 Euclidean GPr-Net DEBUG Train results -- Loss: 0.9615 Acc: 0.6525
+03:44:41,567 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8031 Acc: 0.6675
+03:44:41,823 Euclidean GPr-Net DEBUG Train results -- Loss: 1.0402 Acc: 0.6212
+03:44:42,86 Euclidean GPr-Net DEBUG Train results -- Loss: 0.9772 Acc: 0.6050
+03:44:42,333 Euclidean GPr-Net DEBUG Train results -- Loss: 0.9366 Acc: 0.6975
+03:44:56,775 Euclidean GPr-Net DEBUG 
+ Best Val results -- Loss: 0.9327 Acc: 0.6582
+03:44:56,776 Euclidean GPr-Net DEBUG Val results -- Loss: 0.9327 Acc: 0.6582
+03:44:56,908 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8573 Acc: 0.7075
+03:44:57,37 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7147 Acc: 0.7687
+03:44:57,170 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8485 Acc: 0.6900
+03:44:57,303 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6834 Acc: 0.7712
+03:44:57,437 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6005 Acc: 0.7775
+03:44:57,570 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7048 Acc: 0.7787
+03:44:57,702 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7931 Acc: 0.7475
+03:44:57,834 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8514 Acc: 0.7212
+03:44:57,972 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8208 Acc: 0.7237
+03:44:58,109 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7498 Acc: 0.7212
+03:45:12,677 Euclidean GPr-Net DEBUG 
+ Best Val results -- Loss: 0.7758 Acc: 0.7184
+03:45:12,678 Euclidean GPr-Net DEBUG Val results -- Loss: 0.7758 Acc: 0.7184
+03:45:12,933 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8455 Acc: 0.6812
+03:45:13,185 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7547 Acc: 0.7675
+03:45:13,437 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8286 Acc: 0.7175
+03:45:13,681 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7944 Acc: 0.7275
+03:45:13,926 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8135 Acc: 0.7337
+03:45:14,171 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7053 Acc: 0.7762
+03:45:14,415 Euclidean GPr-Net DEBUG Train results -- Loss: 0.9463 Acc: 0.6688
+03:45:14,658 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8008 Acc: 0.7137
+03:45:14,903 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7909 Acc: 0.6975
+03:45:15,144 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8612 Acc: 0.7075
+03:45:32,927 Euclidean GPr-Net DEBUG 
+ Best Val results -- Loss: 0.7077 Acc: 0.7367
+03:45:32,928 Euclidean GPr-Net DEBUG Val results -- Loss: 0.7077 Acc: 0.7367
+03:45:33,185 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7973 Acc: 0.7075
+03:45:33,435 Euclidean GPr-Net DEBUG Train results -- Loss: 0.5638 Acc: 0.8237
+03:45:33,680 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7183 Acc: 0.7525
+03:45:33,926 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7153 Acc: 0.7462
+03:45:34,171 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6478 Acc: 0.8025
+03:45:34,414 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6767 Acc: 0.8212
+03:45:34,666 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6681 Acc: 0.7862
+03:45:34,913 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8188 Acc: 0.7050
+03:45:35,168 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7842 Acc: 0.7187
+03:45:35,426 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6150 Acc: 0.7700
+03:45:53,338 Euclidean GPr-Net DEBUG 
+ Best Val results -- Loss: 0.6915 Acc: 0.7380
+03:45:53,339 Euclidean GPr-Net DEBUG Val results -- Loss: 0.6915 Acc: 0.7380
+03:45:53,586 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6489 Acc: 0.7800
+03:45:53,834 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7211 Acc: 0.7587
+03:45:54,80 Euclidean GPr-Net DEBUG Train results -- Loss: 0.5725 Acc: 0.8312
+03:45:54,326 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7229 Acc: 0.7175
+03:45:54,570 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8961 Acc: 0.6600
+03:45:54,815 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6600 Acc: 0.8025
+03:45:55,60 Euclidean GPr-Net DEBUG Train results -- Loss: 0.8704 Acc: 0.7025
+03:45:55,307 Euclidean GPr-Net DEBUG Train results -- Loss: 0.6377 Acc: 0.7962
+03:45:55,553 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7251 Acc: 0.7775
+03:45:55,801 Euclidean GPr-Net DEBUG Train results -- Loss: 0.7994 Acc: 0.7237
+03:46:13,665 Euclidean GPr-Net DEBUG 
+ Best Val results -- Loss: 0.6930 Acc: 0.7434
+03:46:13,666 Euclidean GPr-Net DEBUG Val results -- Loss: 0.6930 Acc: 0.7434
+03:46:31,970 Euclidean GPr-Net DEBUG 
+ 
+ Test Acc 0.7447 + 0.0098
