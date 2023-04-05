@@ -13,7 +13,7 @@
 <div align="center"> 
 
 ![teaser](./assets/Images/Main.png)
-We present an overview of the proposed GPr-Net framework, which processes point clouds in a few-shot episodic paradigm using the proposed IGI and Laplace vectors to generate geometric feature sets. These features are then mapped to a higher dimensional permutation invariant feature using the symmetric operation $\mathcal{A}$ and a single Multilayer Perceptron (MLP) $f_{\theta}$. The Prototypical network, $f_{\theta}$, utilizes the support and query geometric embeddings $\vec{L}(\Psi(x_s))$ = $\mathcal{S}_e$ and $\vec{L}(\Psi(x_q))$ = $\mathcal{Q}_e$ to predict few-shot labels. To overcome the distribution drift challenge in Prototypical Networks, we employ the Hyperbolic Distance of Euclidean.
+We present an overview of the proposed GPr-Net framework, which processes point clouds in a few-shot episodic paradigm using the proposed IGI and Laplace vectors to generate geometric feature sets. These features are then mapped to a higher dimensional permutation invariant feature using the symmetric operation $\mathcal{A}$ and a single Multilayer Perceptron (MLP) $f_{\theta}$. The Prototypical network $f_{\theta}$, utilizes the support and query geometric embeddings $\vec{L}(\Psi(x_s))$ = $\mathcal{S}_e$ and $\vec{L}(\Psi(x_q))$ = $\mathcal{Q}_e$ to predict few-shot labels. To overcome the distribution drift challenge in Prototypical Networks, we employ the Hyperbolic Distance of Euclidean.
 
 
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mix3d-out-of-context-data-augmentation-for-3d/semantic-segmentation-on-scannet)](https://paperswithcode.com/sota/semantic-segmentation-on-scannet?p=mix3d-out-of-context-data-augmentation-for-3d) -->
@@ -31,8 +31,8 @@ We present an overview of the proposed GPr-Net framework, which processes point 
 
 
 ## Running the code
-This repository contains the code for the analysis experiments of Section `4.1. Few-Shot 3D object classification` from the paper
-For the ModelNet40 benchmark and Table 1 (main paper) we use the original [SS-FSL](https://github.com/charusharma1991/SSL_PointClouds) benchmarking.
+This repository contains the code for the analysis experiments of `Section 4.1. Few-Shot 3D object classification` from the paper
+on the ModelNet40 benchmark and Table 1 (main paper) we use the original [SS-FSL](https://github.com/charusharma1991/SSL_PointClouds) benchmarking.
 
 
 On ModelNet40, GPr-Net achieves best result for **512** points and poincare manifold on tasks: 
@@ -46,7 +46,8 @@ logs and pretrained models can be found [[here]](https://github.com/TejasAnvekar
 
 
 <br><br>
-Performance of GPr-Net for 6 expirements with different seeds:
+
+Performance of GPr-Net for 6 expirements with different seeds `Section 4.1. Few-Shot 3D object classification` from the paper we show our results from Table 1 (main paper):
 
 |#Points | Ways | Shots | OA (Euc) | OA (Hyp)
 |:--:|:--:|:--:|:--:|:--:|
@@ -72,7 +73,7 @@ cd GPr-Net
 # step 2: install libs step by step
 conda create -n GPrNet python=3.8 -y
 conda activate GPrNet
-conda install pytorch==1.12.1 torchvision==0.13.1 cudatoolkit=11.3.1 -c pytorch -y
+conda install pytorch==1.10.1 torchvision==0.11.2 cudatoolkit=11.3.1 -c pytorch -y
 pip install geoopt einops h5py pandas tqdm torch-summary
 ```
 
