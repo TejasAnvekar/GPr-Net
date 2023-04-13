@@ -10,6 +10,8 @@
 
 <br><br>
 
+[[arXiv]](https://arxiv.org/pdf/2304.06007v1.pdf)
+
 <div align="center"> 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gpr-net-geometric-prototypical-network-for/few-shot-3d-point-cloud-classification-on-3)](https://paperswithcode.com/sota/few-shot-3d-point-cloud-classification-on-3?p=gpr-net-geometric-prototypical-network-for) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gpr-net-geometric-prototypical-network-for/few-shot-3d-point-cloud-classification-on-4)](https://paperswithcode.com/sota/few-shot-3d-point-cloud-classification-on-4?p=gpr-net-geometric-prototypical-network-for) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gpr-net-geometric-prototypical-network-for/few-shot-3d-point-cloud-classification-on-1)](https://paperswithcode.com/sota/few-shot-3d-point-cloud-classification-on-1?p=gpr-net-geometric-prototypical-network-for) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gpr-net-geometric-prototypical-network-for/few-shot-3d-point-cloud-classification-on-2)](https://paperswithcode.com/sota/few-shot-3d-point-cloud-classification-on-2?p=gpr-net-geometric-prototypical-network-for)
