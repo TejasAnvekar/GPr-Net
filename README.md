@@ -12,13 +12,15 @@
 
 <div align="center"> 
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gpr-net-geometric-prototypical-network-for/few-shot-3d-point-cloud-classification-on-3)](https://paperswithcode.com/sota/few-shot-3d-point-cloud-classification-on-3?p=gpr-net-geometric-prototypical-network-for) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gpr-net-geometric-prototypical-network-for/few-shot-3d-point-cloud-classification-on-4)](https://paperswithcode.com/sota/few-shot-3d-point-cloud-classification-on-4?p=gpr-net-geometric-prototypical-network-for) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gpr-net-geometric-prototypical-network-for/few-shot-3d-point-cloud-classification-on-1)](https://paperswithcode.com/sota/few-shot-3d-point-cloud-classification-on-1?p=gpr-net-geometric-prototypical-network-for) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gpr-net-geometric-prototypical-network-for/few-shot-3d-point-cloud-classification-on-2)](https://paperswithcode.com/sota/few-shot-3d-point-cloud-classification-on-2?p=gpr-net-geometric-prototypical-network-for)
+
+<!-- <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a> -->
+
+
 ![teaser](./assets/Images/Main.png)
 We present an overview of the proposed GPr-Net framework, which processes point clouds in a few-shot episodic paradigm using the proposed IGI and Laplace vectors to generate geometric feature sets. These features are then mapped to a higher dimensional permutation invariant feature using the symmetric operation $\mathcal{A}$ and a single Multilayer Perceptron (MLP) $f_{\theta}$. The Prototypical network $f_{\theta}$, utilizes the support and query geometric embeddings $\vec{L}(\Psi(x_s))$ = $\mathcal{S}_e$ and $\vec{L}(\Psi(x_q))$ = $\mathcal{Q}_e$ to predict few-shot labels. To overcome the distribution drift challenge in Prototypical Networks, we employ the Hyperbolic Distance of Euclidean.
 
 
-<!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mix3d-out-of-context-data-augmentation-for-3d/semantic-segmentation-on-scannet)](https://paperswithcode.com/sota/semantic-segmentation-on-scannet?p=mix3d-out-of-context-data-augmentation-for-3d) -->
-
-<!-- <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a> -->
 
 
 
@@ -129,7 +131,12 @@ Our implementation is mainly based on the following codebases. We gratefully tha
 ## BibTeX
 Please cite our paper if it is helpful to your research:
 ```
-
-
-
+@misc{anvekar2023gprnet,
+      title={{GPr-Net: Geometric Prototypical Network for Point Cloud Few-Shot Learning}}, 
+      author={Tejas Anvekar and Dena Bazazian},
+      year={2023},
+      eprint={2304.06007},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
