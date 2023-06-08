@@ -9,6 +9,7 @@
 </div>
 
 [[arXiv]](https://arxiv.org/pdf/2304.06007v1.pdf)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/DLGC/papers/Anvekar_GPr-Net_Geometric_Prototypical_Network_for_Point_Cloud_Few-Shot_Learning_CVPRW_2023_paper.pdf)
 <br><br>
 
 
@@ -133,12 +134,12 @@ Our implementation is mainly based on the following codebases. We gratefully tha
 ## BibTeX
 Please cite our paper if it is helpful to your research:
 ```
-@misc{anvekar2023gprnet,
-      title={{GPr-Net: Geometric Prototypical Network for Point Cloud Few-Shot Learning}}, 
-      author={Tejas Anvekar and Dena Bazazian},
-      year={2023},
-      eprint={2304.06007},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Anvekar_2023_CVPR,
+    author    = {Anvekar, Tejas and Bazazian, Dena},
+    title     = {GPr-Net: Geometric Prototypical Network for Point Cloud Few-Shot Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {4178-4187}
 }
 ```
