@@ -20,7 +20,8 @@
 <!-- <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a> -->
 
 
-![teaser](./assets/Images/Main.png)
+<!-- ![teaser](./assets/Images/Main.png) -->
+<a><img src="./assets/Images/Main.png" ></a>
 We present an overview of the proposed GPr-Net framework, which processes point clouds in a few-shot episodic paradigm using the proposed IGI and Laplace vectors to generate geometric feature sets. These features are then mapped to a higher dimensional permutation invariant feature using the symmetric operation $\mathcal{A}$ and a single Multilayer Perceptron (MLP) $f_{\theta}$. The Prototypical network $f_{\theta}$, utilizes the support and query geometric embeddings $\vec{L}(\Psi(x_s))$ = $\mathcal{S}_e$ and $\vec{L}(\Psi(x_q))$ = $\mathcal{Q}_e$ to predict few-shot labels. To overcome the distribution drift challenge in Prototypical Networks, we employ the Hyperbolic Distance of Euclidean.
 
 
