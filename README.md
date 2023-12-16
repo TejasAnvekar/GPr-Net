@@ -83,7 +83,7 @@ pip install geoopt einops h5py pandas tqdm torch-summary
 ```
 
 
-## Useage
+## Usage
 
 ### Few-Shot Classification on ModelNet40
 **Train and Evaluate**: The dataset will be automatically downloaded, run following commands.
